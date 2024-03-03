@@ -18,7 +18,7 @@ while(scanf("%d %d",&a, &b) != EOF){
     }  
 ```
 
-![scanf](photos\scanf.png "scanf")
+![scanf](https://github.com/TecReaGroup/cpp_notes/blob/main/photos/scanf.png?raw=true "scanf")
 
 ### printf
 
