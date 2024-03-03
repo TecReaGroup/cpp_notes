@@ -18,14 +18,14 @@ while(scanf("%d %d",&a, &b) != EOF){
     }  
 ```
 
-![scanf](.\photos\scanf.png "scanf")
+![scanf](photos\scanf.png "scanf")
 
 ### printf
 
 1. printf .nf: 会对最后一项四舍五入
 2. printf %nd: 保留n位数多余用空格补充（右对齐）; 左对齐：%-nd。如果参数过长，以参数长度为准，不会进行截断
 
-![printf](.\photos\printf.png "printf")
+![printf](photos\printf.png "printf")
 
 ### memset
 
